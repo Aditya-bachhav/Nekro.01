@@ -1,0 +1,11 @@
+speechrecognition
+pyttsx3
+googletrans==4.0.0-rc1
+requests
+selenium
+webdriver-manager
+pygame
+edge-tts
+torch
+transformers
+rich

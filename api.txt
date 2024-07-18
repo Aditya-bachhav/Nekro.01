@@ -1,0 +1,10 @@
+#news api
+6a5756e24dc6452ca3972b960c85184d
+# gemini api
+AIzaSyBnE-I5WcML3E6BkNJi1YsrJGQUMtRpssk
+#81 apis (api ningas)
+Gizz4a/erHnovJiZy7KSHw==qqBoqfWGEENwwahj
+
+
+#setting env
+$env:GOOGLE_API_KEY="AIzaSyBnE-I5WcML3E6BkNJi1YsrJGQUMtRpssk"
